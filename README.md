@@ -163,6 +163,74 @@ You will want to provide a path to the php executable file (php-cgi.exe)).
 </p>
 <p>
   
+  Restart the IIS server.
+  
+<p>
+<img src="https://imgur.com/CJ3RUbG.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+13.) Install osTicket v1.15.8
+  -Download osTicket from the Installation Files Folder
+  -Extract and copy "upload" folder to c:\inetpub\wwwroot
+  -Within c:\inetpub\root, Rename "upload" to "osTicket"
+  
+  Reload IIS again.
+  
+14.) On IIS go to sites -> Default -> osTicket
+  -On the right, click “Browse *:80”
+  
+<p>
+<img src="https://imgur.com/Yw55d5b.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+  Some extensions are not enabled on the osTicket browser.
+  
+<p>
+<img src="https://imgur.com/eJIsGTn.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+  To enable the extensions:
+  -Go back to IIS, sites -> Default -> osTicket
+  -Double click PHP manager
+  -Click "Enable or disable an extension"
+  
+<p>
+<img src="https://imgur.com/vvTLNBH.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+<p>
+<img src="https://imgur.com/uigyKjb.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+  
+  
+  
+  We will want to enable three extensions from here.
+  1.) php_imap.dll
+  2.) php_intl.dll
+  3.) php_opcache.dll
+ 
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
   
   
 
