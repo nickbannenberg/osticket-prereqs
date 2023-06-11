@@ -207,14 +207,20 @@ You will want to provide a path to the php executable file (php-cgi.exe)).
 </p>
 <p>
   
-  
-  
-  
   We will want to enable three extensions from here.
   1.) php_imap.dll
-  2.) php_intl.dll
-  3.) php_opcache.dll
  
+  2.) php_intl.dll
+  
+  3.) php_opcache.dll
+  
+<p>
+<img src="https://imgur.com/cOem7Nb.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ 
+  
+  
   
   
   
