@@ -75,6 +75,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
   
+***NOTE*** Make sure all Common HTTP Features are checked.
+  
 
   
 
