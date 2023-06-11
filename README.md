@@ -110,6 +110,37 @@ If this appears, choose to “Keep” the file:
 </p>
 <p>
 
+9.) Once you have downloaded and extracted the zip file into the PHP folder on the C drive, download and install the VC_redist.x86.exe from the installation files. Go through the setup wizard to finish setting up and installing the VC_redist.x86.exe. 
+  
+10.) Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+  Run the setup wizard:
+Typical Setup ->
+Launch Configuration Wizard (after install) ->
+Standard Configuration ->
+
+  Make the new root password: Password1
+  
+<p>
+<img src="https://imgur.com/KxcUy7C.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+  Execute the process on the next page.
+  
+<p>
+<img src="https://imgur.com/i7sn6hT.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
   
  
 
