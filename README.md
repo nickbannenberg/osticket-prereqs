@@ -60,7 +60,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
   
-4.)
+4.) You will want to install / enable IIS in Windows with CGI and Common HTTP Features
+  - World Wide Web Services -> Application Development Features -> 
+[X] CGI
+[X] Common HTTP Features
+  
+<p>
+<img src="https://imgur.com/LQjw9le.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+<p>
+<img src="https://imgur.com/pbPeHb1.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+
+  
+
+
 
   
 
