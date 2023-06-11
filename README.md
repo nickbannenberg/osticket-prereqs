@@ -51,7 +51,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 3.) Once you have connected to your virtual machine you will want to go to your control panel. From the control panel open up programs.
 
 <p>
-<img src="https://imgur.com/DbQbeiK.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/fGXMpx4.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
