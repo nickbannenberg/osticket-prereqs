@@ -132,6 +132,55 @@ Standard Configuration ->
 </p>
 <p>
   
+11.) Now that we have the files downloaded and installed we will want to search for IIS in the windows search bar. Open IIS as an administrator.
+  The program should look like this.
+  
+<p>
+<img src="https://imgur.com/rgdZwmM.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+12.) We will now want to register PHP from within IIS.
+  Click on PHP Manager
+  
+<p>
+<img src="https://imgur.com/vvTLNBH.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+Register new PHP version.
+  
+<p>
+<img src="https://imgur.com/qdbn5zQ.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+You will want to provide a path to the php executable file (php-cgi.exe)). 
+  Go to C Drive -> PHP -> click on php-cgi file.
+  
+<p>
+<img src="https://imgur.com/oJZ0gp9.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
