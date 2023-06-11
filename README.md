@@ -76,6 +76,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
   
 ***NOTE*** Make sure all Common HTTP Features are checked.
+ 
+ To make sure the IIS is installed / enabled go to a browser of your choice and search for http://127.0.0.1/ 
+  It should look something like this. 
+  
+<p>
+<img src="https://imgur.com/eICujoq.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+  
+  
+  
+5.) From the Installation Files, download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+  Go through the install wizard and complete the install.
+  
+6.) Next from the Installation Files, download and install the Rewrite Module (rewrite_amd64_en-US.msi)
   
 
   
