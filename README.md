@@ -208,6 +208,7 @@ You will want to provide a path to the php executable file (php-cgi.exe)).
 <p>
   
   We will want to enable three extensions from here.
+  
   1.) php_imap.dll
  
   2.) php_intl.dll
